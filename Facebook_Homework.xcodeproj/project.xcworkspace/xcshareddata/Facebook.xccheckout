@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>436E1A7F-BA2B-438F-BE2F-C8CA99907FE7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Facebook</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1C1E4673A372C702E4A92101B31EFC45BCAD47A3</key>
+		<string>https://github.com/jbarkis/week2exercise.git</string>
+		<key>34C100261EFA6E1444F1550708AC33E8A6511D18</key>
+		<string>https://github.com/jbarkis/Facebook.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Facebook.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1C1E4673A372C702E4A92101B31EFC45BCAD47A3</key>
+		<string>../..%20Homework</string>
+		<key>34C100261EFA6E1444F1550708AC33E8A6511D18</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jbarkis/Facebook.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>34C100261EFA6E1444F1550708AC33E8A6511D18</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>34C100261EFA6E1444F1550708AC33E8A6511D18</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Facebook</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1C1E4673A372C702E4A92101B31EFC45BCAD47A3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Facebook%20Homework</string>
+		</dict>
+	</array>
+</dict>
+</plist>
